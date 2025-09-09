@@ -1,0 +1,9 @@
+{
+    "gloss": "HELLO WORLD",
+    "poses": [
+      {"frame": 0, "pose_landmarks": [], "left_hand_landmarks": [] },
+      {"frame": 1, "pose_landmarks": [], "left_hand_landmarks": [] }
+      
+    ]
+  }
+  
