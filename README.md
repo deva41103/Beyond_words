@@ -2,7 +2,7 @@
 
 Beyond_words is a sign-language-to-text/web demo project that uses a trained deep-learning model to recognize sign-language gestures from video or webcam input. The repository contains a web application frontend/back-end, a PyTorch model file, helper scripts for uploading videos and preprocessing, and a Jupyter notebook demonstrating experiments.
 
-> NOTE: This README was generated from the repository file listing. Before running, please inspect `app.py`, `model.py`, and related scripts to confirm exact dependency names, endpoints, and configuration values used by this project.
+> NOTE: This README was generated from the repository file listing. Before running, please inspect `app.py `, `model.py`, and related scripts to confirm exact dependency names, endpoints, and configuration values used by this project.
 
 ## Key features
 - Real-time or recorded-video sign language recognition (model inference).
